@@ -135,3 +135,4 @@ venv.bak/
 .mypy_cache/
 
 /.gitignore
+!/.gitignore
