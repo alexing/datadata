@@ -6,7 +6,7 @@ https://nycdatascience.com/blog/student-works/billboard-hot-100-lyrics-1987-2017
 
 https://github.com/rasbt/musicmood
 
-Also, programa a classifier with logistic regression between Drexler and something weird like Lali Esposito.
+Also, programa a classifier with logistic regression between Drexler and something weird like Arjona!.
 
 To check hypothesis:
 1)
