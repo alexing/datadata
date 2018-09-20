@@ -1,0 +1,127 @@
+index;disc_number;duration_ms;id;name;track_number;uri;album;duration_s;acousticness;danceability;energy;key;tempo;time_signature;valence;mode
+0;1;257360;43EVN2D60aYJf8PMuGuQH9;El Pianista Del Gueto De Varsovia;1;spotify:track:43EVN2D60aYJf8PMuGuQH9;Sea;257.36;0.152;0.831;0.498;9.0;146.592;4.0;0.447;0.0
+1;1;225200;6z98uNlBjkisBUnv5zMQWE;Sea;2;spotify:track:6z98uNlBjkisBUnv5zMQWE;Sea;225.2;0.0138;0.618;0.684;9.0;135.014;4.0;0.465;0.0
+2;1;243760;4AnMHETBYUYoZeFJRNnE8n;Causa Y Efecto;3;spotify:track:4AnMHETBYUYoZeFJRNnE8n;Sea;243.76;0.114;0.603;0.684;4.0;80.635;4.0;0.92;1.0
+3;1;218186;736D1R1c4aoGcn7ZEmtyH4;Horas;4;spotify:track:736D1R1c4aoGcn7ZEmtyH4;Sea;218.18667;0.602;0.703;0.709;7.0;140.965;4.0;0.924;1.0
+4;1;190600;5LgIR0Fzfc9vJy2Yx4WI0P;Crece;5;spotify:track:5LgIR0Fzfc9vJy2Yx4WI0P;Sea;190.6;0.466;0.649;0.51;5.0;174.931;3.0;0.476;1.0
+5;1;264293;57ypE3GdN7ZLaZou7JAu9t;Tamborero;6;spotify:track:57ypE3GdN7ZLaZou7JAu9t;Sea;264.29333;0.451;0.833;0.579;11.0;94.008;4.0;0.819;0.0
+6;1;220413;68jCHd8ltpjWwj0cDX2G1y;Nada Menos;7;spotify:track:68jCHd8ltpjWwj0cDX2G1y;Sea;220.41333;0.283;0.695;0.514;9.0;132.065;4.0;0.439;1.0
+7;1;184546;4UKe38tm5NkRpuFCxwewEe;Me Haces Bien;8;spotify:track:4UKe38tm5NkRpuFCxwewEe;Sea;184.54667;0.327;0.404;0.607;9.0;149.604;3.0;0.576;1.0
+8;1;197506;1z38CbWAVCe8mJ9r4uWTAa;Durante;9;spotify:track:1z38CbWAVCe8mJ9r4uWTAa;Sea;197.50667;0.00226;0.608;0.706;1.0;177.914;4.0;0.504;1.0
+9;1;191200;2ZjCVvo1K2xcbkw3AJGy9f;Raquel;10;spotify:track:2ZjCVvo1K2xcbkw3AJGy9f;Sea;191.2;0.355;0.743;0.611;9.0;137.986;4.0;0.439;1.0
+10;1;169066;1wLaZctzZCnr9NJNZOjcVY;Uno;11;spotify:track:1wLaZctzZCnr9NJNZOjcVY;Sea;169.06667;0.227;0.715;0.686;1.0;130.945;4.0;0.86;1.0
+11;1;250520;0cRGphnZkrd7OI6IT0jq6j;Un País Con Un Nombre De Río;12;spotify:track:0cRGphnZkrd7OI6IT0jq6j;Sea;250.52;0.611;0.541;0.447;4.0;171.807;3.0;0.582;1.0
+0;1;191466;15F5w6GELfrYu4M4Wq02Nt;De Amor Y De Casualidad;1;spotify:track:15F5w6GELfrYu4M4Wq02Nt;Llueve;191.46667;0.225;0.741;0.564;9.0;117.859;4.0;0.359;1.0
+1;1;271666;7lUSRDgAjZ94ex0zN7zh6f;Antes;2;spotify:track:7lUSRDgAjZ94ex0zN7zh6f;Llueve;271.66667;0.436;0.685;0.39;7.0;79.975;4.0;0.481;1.0
+2;1;249333;3r1cfu7qDpEP3A80TGDzsH;Llueve;3;spotify:track:3r1cfu7qDpEP3A80TGDzsH;Llueve;249.33333;0.193;0.4;0.471;9.0;64.502;3.0;0.0765;1.0
+3;1;266333;547k2vDusDo7KkZSSZ5EgJ;Flores En El Mar;4;spotify:track:547k2vDusDo7KkZSSZ5EgJ;Llueve;266.33333;0.291;0.671;0.444;4.0;137.152;4.0;0.584;1.0
+4;1;235000;07mfNNqLik7WIWZqkQGShY;Murga Reggae;5;spotify:track:07mfNNqLik7WIWZqkQGShY;Llueve;235.0;0.803;0.794;0.327;7.0;141.971;4.0;0.547;1.0
+5;1;190000;2v7OzJaNF7ZCXrbnsYonGw;No Pienses De Mas;6;spotify:track:2v7OzJaNF7ZCXrbnsYonGw;Llueve;190.0;0.227;0.706;0.608;0.0;120.407;4.0;0.215;1.0
+6;1;180000;6jPtBYn3VN1Ooz6F5OSblt;Cara B;7;spotify:track:6jPtBYn3VN1Ooz6F5OSblt;Llueve;180.0;0.881;0.644;0.222;9.0;120.843;3.0;0.213;1.0
+7;1;212493;3KqYGGXVWqWP6e7wMhcWKj;La Huella De Tu Mirada;8;spotify:track:3KqYGGXVWqWP6e7wMhcWKj;Llueve;212.49333;0.56;0.651;0.371;0.0;78.718;4.0;0.589;1.0
+8;1;211333;7wAX3SMQnz6a5EGk63haiH;Milonga Paraguaya;9;spotify:track:7wAX3SMQnz6a5EGk63haiH;Llueve;211.33333;0.96;0.532;0.121;7.0;84.431;4.0;0.357;1.0
+9;1;203000;1ZrUkIAnUCZB7vlXxzrLrK;Tu Piel;10;spotify:track:1ZrUkIAnUCZB7vlXxzrLrK;Llueve;203.0;0.303;0.868;0.367;5.0;130.038;4.0;0.522;0.0
+10;1;176173;6SrS9vl9994H54jBT4q4Ff;Paisaje Lunar;11;spotify:track:6SrS9vl9994H54jBT4q4Ff;Llueve;176.17333;0.841;0.699;0.503;5.0;152.933;3.0;0.664;0.0
+11;1;449413;1C9GEu2jGZnxVwhp7OjI5s;Montevideo;12;spotify:track:1C9GEu2jGZnxVwhp7OjI5s;Llueve;449.41333;0.892;0.432;5.44e-05;4.0;143.642;4.0;0.158;0.0
+0;1;202360;5mp2f2LfC7roht9TKWgPMc;Eco;1;spotify:track:5mp2f2LfC7roht9TKWgPMc;Eco;202.36;0.659;0.641;0.517;4.0;131.955;4.0;0.268;0.0
+1;1;224266;6utk08MZqDYbhCN2D63bmC;Deseo;2;spotify:track:6utk08MZqDYbhCN2D63bmC;Eco;224.26667;0.441;0.729;0.408;9.0;76.02;4.0;0.534;0.0
+2;1;217146;4YEU9N2XAE0DfUwxWI5ijA;Todo se transforma;3;spotify:track:4YEU9N2XAE0DfUwxWI5ijA;Eco;217.14639;0.199;0.761;0.488;9.0;100.024;4.0;0.682;1.0
+3;1;235066;0bsYD4JWWrUqXXUXDi8SYK;Guitarra y vos;4;spotify:track:0bsYD4JWWrUqXXUXDi8SYK;Eco;235.06667;0.488;0.728;0.546;2.0;70.995;4.0;0.64;1.0
+4;1;251786;16CLLNsmKJ6giUDYEBhCsf;Transporte;5;spotify:track:16CLLNsmKJ6giUDYEBhCsf;Eco;251.78639;0.0271;0.751;0.824;2.0;121.92;4.0;0.713;1.0
+5;1;234360;2aIutITgklpsnkA4Y8WbsI;Milonga del moro judio;6;spotify:track:2aIutITgklpsnkA4Y8WbsI;Eco;234.36;0.647;0.746;0.525;6.0;124.043;4.0;0.521;1.0
+6;1;237373;4rmGhm0lMAfEcR9Jg9PitW;Polvo de estrellas;7;spotify:track:4rmGhm0lMAfEcR9Jg9PitW;Eco;237.37333;0.439;0.779;0.663;1.0;124.974;4.0;0.618;0.0
+7;1;185306;08vRaQgh37YTRInTj3Bwpp;Se va, se va, se fue;8;spotify:track:08vRaQgh37YTRInTj3Bwpp;Eco;185.30667;0.427;0.927;0.498;7.0;108.016;4.0;0.887;0.0
+8;1;235853;1FwGXG3B6RVgRPAZ6BVL59;Don de fluir;9;spotify:track:1FwGXG3B6RVgRPAZ6BVL59;Eco;235.85333;0.532;0.625;0.712;0.0;159.912;4.0;0.903;1.0
+9;1;220573;7obc42ol4tvhEKFteAVemA;Fusion;10;spotify:track:7obc42ol4tvhEKFteAVemA;Eco;220.57333;0.533;0.631;0.607;11.0;124.072;4.0;0.358;0.0
+10;1;272133;6oxGdDLyfL4ek2jCsEOlTN;Salvapantallas;11;spotify:track:6oxGdDLyfL4ek2jCsEOlTN;Eco;272.13333;0.723;0.707;0.326;11.0;133.009;4.0;0.512;1.0
+0;1;186493;6XdcGRkINllNzoRiCEhLRR;Luna Negra;1;spotify:track:6XdcGRkINllNzoRiCEhLRR;Vaivén;186.49333;0.747;0.765;0.334;4.0;117.938;4.0;0.814;1.0
+1;1;222040;23P8ZlzwSC9Fi9xIMUf4Qh;Cerca Del Mar;2;spotify:track:23P8ZlzwSC9Fi9xIMUf4Qh;Vaivén;222.04;0.603;0.749;0.391;7.0;96.035;4.0;0.351;1.0
+2;1;163626;0s5XOAZxUEoHDQ2zWLeIvI;Tú;3;spotify:track:0s5XOAZxUEoHDQ2zWLeIvI;Vaivén;163.62667;0.904;0.549;0.0922;6.0;124.197;3.0;0.509;1.0
+3;1;231440;04eTuT23xvrK5ruBBFLnM8;Era De Amar;4;spotify:track:04eTuT23xvrK5ruBBFLnM8;Vaivén;231.44;0.689;0.704;0.24;2.0;147.819;4.0;0.795;1.0
+4;1;154026;3J8RALA7hIFWGRMG6SG0lb;730 Días;5;spotify:track:3J8RALA7hIFWGRMG6SG0lb;Vaivén;154.02667;0.91;0.595;0.0599;9.0;117.076;4.0;0.5;1.0
+5;1;224533;5aNnhdQRegLBIPtRgzRRtG;Ganas De Ti;6;spotify:track:5aNnhdQRegLBIPtRgzRRtG;Vaivén;224.53333;0.537;0.616;0.188;7.0;76.91;4.0;0.612;1.0
+6;1;180333;4Y4fyZgPEd0UgHjppsNuu7;Zamba Del Olvido;7;spotify:track:4Y4fyZgPEd0UgHjppsNuu7;Vaivén;180.33333;0.887;0.486;0.0416;4.0;170.689;4.0;0.429;1.0
+7;1;157440;2iJ7QSL6bq6UgrMvvxzOT0;Un Lugar En Tu Almohada;8;spotify:track:2iJ7QSL6bq6UgrMvvxzOT0;Vaivén;157.44;0.765;0.803;0.289;5.0;91.682;4.0;0.95;1.0
+8;1;159400;23a26XM1BQPvbg4PnJQiA8;La Luna De Espejos;9;spotify:track:23a26XM1BQPvbg4PnJQiA8;Vaivén;159.4;0.795;0.617;0.127;2.0;149.639;3.0;0.487;0.0
+9;1;266000;5bPliWzRQhKfmcyPZcUJc6;Tu Voyeur;10;spotify:track:5bPliWzRQhKfmcyPZcUJc6;Vaivén;266.0;0.292;0.738;0.355;4.0;154.019;4.0;0.705;0.0
+10;1;224200;4R5M4ZV9xGtnTRWVrjHQM7;Dos Colores: Blanco Y Negro;11;spotify:track:4R5M4ZV9xGtnTRWVrjHQM7;Vaivén;224.2;0.854;0.489;0.171;4.0;160.113;3.0;0.543;1.0
+11;1;175026;5IDX3criNsV6KTvV5gTfa9;Vaivén;12;spotify:track:5IDX3criNsV6KTvV5gTfa9;Vaivén;175.02667;0.701;0.561;0.346;6.0;112.232;4.0;0.775;1.0
+12;1;150266;6zNt5FcXZ6STPAtbgEXWeW;Ana;13;spotify:track:6zNt5FcXZ6STPAtbgEXWeW;Vaivén;150.26667;0.888;0.536;0.0541;2.0;122.37;3.0;0.235;1.0
+0;1;231653;7pBoi7yWCPzn3UjeMsGKg6;Movimiento;1;spotify:track:7pBoi7yWCPzn3UjeMsGKg6;Salvavidas de hielo;231.65333;0.9;0.784;0.457;2.0;125.021;4.0;0.546;1.0
+1;1;184963;7zSBOSD4w5LGv1bIblkVFp;Telefonía;2;spotify:track:7zSBOSD4w5LGv1bIblkVFp;Salvavidas de hielo;184.96354;0.829;0.915;0.592;6.0;126.06;4.0;0.841;0.0
+2;1;207986;2gjB9GgSZFlj0YwItEACpQ;Silencio;3;spotify:track:2gjB9GgSZFlj0YwItEACpQ;Salvavidas de hielo;207.98667;0.263;0.887;0.568;4.0;127.923;4.0;0.127;0.0
+3;1;182453;3cApCJqmVwE23cxYUADZpx;Pongamos que hablo de Martínez;4;spotify:track:3cApCJqmVwE23cxYUADZpx;Salvavidas de hielo;182.45333;0.893;0.849;0.458;9.0;119.95;4.0;0.461;1.0
+4;1;261066;0R1P6xtRxAQRS0UMo4wkgg;Estalactitas;5;spotify:track:0R1P6xtRxAQRS0UMo4wkgg;Salvavidas de hielo;261.06667;0.797;0.772;0.63;0.0;136.019;4.0;0.909;1.0
+5;1;183880;41gpbNDcsSh4r8YgVMbQqh;Asilo (feat. Mon Laferte);6;spotify:track:41gpbNDcsSh4r8YgVMbQqh;Salvavidas de hielo;183.88;0.808;0.502;0.239;0.0;127.484;5.0;0.367;1.0
+6;1;218040;2mJYTwrs3lMTJ0Z2TXnbZZ;Abracadabras (feat. Julieta Venegas);7;spotify:track:2mJYTwrs3lMTJ0Z2TXnbZZ;Salvavidas de hielo;218.04;0.816;0.763;0.532;7.0;96.116;4.0;0.42;1.0
+7;1;292293;7lc9tI9eS9ULnOdKTsBQ92;Mandato;8;spotify:track:7lc9tI9eS9ULnOdKTsBQ92;Salvavidas de hielo;292.29333;0.574;0.776;0.607;0.0;100.967;4.0;0.937;1.0
+8;1;217413;2RiFT9ZJhR8jcBaz5Si7DC;Despedir a los glaciares;9;spotify:track:2RiFT9ZJhR8jcBaz5Si7DC;Salvavidas de hielo;217.41333;0.557;0.428;0.576;7.0;112.595;4.0;0.143;1.0
+9;1;218520;5787WaGd5DQvL14A6SJ8cG;Quimera;10;spotify:track:5787WaGd5DQvL14A6SJ8cG;Salvavidas de hielo;218.52;0.894;0.831;0.486;11.0;87.023;4.0;0.427;0.0
+10;1;209080;70LZISLWsPXGBn1bpJuYAU;Salvavidas de hielo (feat. Natalia Lafourcade);11;spotify:track:70LZISLWsPXGBn1bpJuYAU;Salvavidas de hielo;209.08;0.957;0.48;0.191;7.0;127.538;4.0;0.182;1.0
+0;1;229973;3uXkVGwMiAvcoyNIOyuX4O;Tres mil millones de latidos;1;spotify:track:3uXkVGwMiAvcoyNIOyuX4O;Amar la trama;229.97333;0.0244;0.418;0.67;2.0;126.033;4.0;0.64;1.0
+1;1;246013;563EHELbGcAwXlAHbWmK3f;La trama y el desenlace;2;spotify:track:563EHELbGcAwXlAHbWmK3f;Amar la trama;246.01333;0.0936;0.579;0.491;11.0;150.005;4.0;0.721;0.0
+2;1;303080;6ngM4BI3VW2fe0SzQX7Ouw;Las transeuntes;3;spotify:track:6ngM4BI3VW2fe0SzQX7Ouw;Amar la trama;303.08;0.821;0.741;0.532;7.0;101.918;4.0;0.658;1.0
+3;1;295866;4Gk58WahIU0EfGR6P0T8Tm;La nieve en la bola de nieve;4;spotify:track:4Gk58WahIU0EfGR6P0T8Tm;Amar la trama;295.86667;0.759;0.457;0.231;2.0;133.083;4.0;0.444;1.0
+4;1;247320;3qMIrWWMKHNGKp8oyS2gQU;Mundo abisal;5;spotify:track:3qMIrWWMKHNGKp8oyS2gQU;Amar la trama;247.32;0.293;0.503;0.567;4.0;160.265;4.0;0.674;1.0
+5;1;215240;5zFd5IZqmyJiTr5Zu1en2k;Toque de queda;6;spotify:track:5zFd5IZqmyJiTr5Zu1en2k;Amar la trama;215.24;0.759;0.473;0.175;9.0;105.357;4.0;0.305;1.0
+6;1;203800;6U9keFxc2bgsC0zyRkfyEQ;Una cancion me trajo hasta aqui;7;spotify:track:6U9keFxc2bgsC0zyRkfyEQ;Amar la trama;203.8;0.0572;0.665;0.849;0.0;131.428;4.0;0.84;1.0
+7;1;214253;1wYgb2WSoI95dYx2STlgDk;Aquiles por su talon es Aquiles;8;spotify:track:1wYgb2WSoI95dYx2STlgDk;Amar la trama;214.25333;0.776;0.523;0.282;9.0;132.44;4.0;0.317;1.0
+8;1;258373;7zFiPc2fAPS5j7DPVISD6F;I don't worry about a thing;9;spotify:track:7zFiPc2fAPS5j7DPVISD6F;Amar la trama;258.37333;0.461;0.821;0.532;10.0;121.795;4.0;0.82;1.0
+9;1;209520;4ZGBUBso8PeNxF9Qt1QGIV;Noctiluca;10;spotify:track:4ZGBUBso8PeNxF9Qt1QGIV;Amar la trama;209.52;0.824;0.409;0.204;9.0;87.537;3.0;0.491;1.0
+10;1;181133;1mQrFtn8rd5bumihR8fAUR;Todos a sus puestos;11;spotify:track:1mQrFtn8rd5bumihR8fAUR;Amar la trama;181.13333;0.469;0.336;0.322;4.0;96.032;4.0;0.642;1.0
+11;1;155200;3eliUpZq7Z9YFlAgdZTXFH;Telon;12;spotify:track:3eliUpZq7Z9YFlAgdZTXFH;Amar la trama;155.2;0.98;0.473;0.209;4.0;103.781;4.0;0.257;1.0
+0;1;297973;3bgEz3NsFjabfbPN6DdOWN;Bienvenida;1;spotify:track:3bgEz3NsFjabfbPN6DdOWN;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);297.97333;0.54;0.789;0.532;0.0;112.732;4.0;0.904;1.0
+1;1;221893;6k3fTbDyuULy9kYA7OShyK;La luna de espejos;2;spotify:track:6k3fTbDyuULy9kYA7OShyK;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);221.89333;0.93;0.712;0.225;5.0;87.52;4.0;0.429;1.0
+2;1;301413;4ZejXkTaVyw3KffEcS86ix;Tatuaje;3;spotify:track:4ZejXkTaVyw3KffEcS86ix;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);301.41333;0.6;0.532;0.571;9.0;79.529;4.0;0.215;1.0
+3;1;239360;3N9qP0bV95JnvDvicZCIKQ;Equipaje;4;spotify:track:3N9qP0bV95JnvDvicZCIKQ;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);239.36;0.928;0.785;0.393;4.0;126.776;4.0;0.333;1.0
+4;1;177946;47uN75sZhcmhu947dzPkuo;Eden;5;spotify:track:47uN75sZhcmhu947dzPkuo;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);177.94667;0.921;0.643;0.311;6.0;137.278;4.0;0.773;1.0
+5;1;276906;2Z3IaUbfcS8oqxmipQTkGh;La aparecida;6;spotify:track:2Z3IaUbfcS8oqxmipQTkGh;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);276.90667;0.853;0.539;0.372;7.0;147.078;3.0;0.313;1.0
+6;1;220266;0Rdr3kKgd5I9XEpBfv4b2k;Un solo color;7;spotify:track:0Rdr3kKgd5I9XEpBfv4b2k;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);220.26667;0.793;0.56;0.484;9.0;136.74;4.0;0.61;0.0
+7;1;170693;13wF870pnYuvSdrCHnqyvf;Vaiven;8;spotify:track:13wF870pnYuvSdrCHnqyvf;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);170.69333;0.902;0.696;0.388;4.0;155.018;3.0;0.539;1.0
+8;1;266666;24KGYSlfrvBE5vkrANLNc4;Macarena y el espejo;9;spotify:track:24KGYSlfrvBE5vkrANLNc4;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);266.66667;0.96;0.416;0.242;0.0;161.452;4.0;0.214;0.0
+9;1;242293;6EKhj17vbiLO1GqkC3vj7l;La luna del cabo;10;spotify:track:6EKhj17vbiLO1GqkC3vj7l;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);242.29333;0.629;0.629;0.586;7.0;114.8;4.0;0.168;1.0
+10;2;247586;0sleOewdchPv0eTOHzlYEF;Radar;1;spotify:track:0sleOewdchPv0eTOHzlYEF;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);247.58667;0.199;0.575;0.771;2.0;77.394;4.0;0.696;1.0
+11;2;231893;00BHbc5GB5d35gsi8IsmZl;No te creas;2;spotify:track:00BHbc5GB5d35gsi8IsmZl;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);231.89333;0.438;0.623;0.803;1.0;126.61;4.0;0.645;0.0
+12;2;245666;3YydyZIRczWXL0nQUEZGDF;Tu voyeur;3;spotify:track:3YydyZIRczWXL0nQUEZGDF;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);245.66667;0.534;0.659;0.649;2.0;79.074;4.0;0.655;0.0
+13;2;248786;0dRo66ociPHxfHs7oIJOfF;Caigua;4;spotify:track:0dRo66ociPHxfHs7oIJOfF;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);248.78667;0.267;0.348;0.626;7.0;144.392;4.0;0.18;1.0
+14;2;242400;68BZKEbubHveyZ3CCGUFsI;Cerca del mar;5;spotify:track:68BZKEbubHveyZ3CCGUFsI;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);242.4;0.266;0.609;0.723;7.0;90.614;4.0;0.619;1.0
+15;2;234493;5uBgPQG5E64d00USnp20cB;Gege;6;spotify:track:5uBgPQG5E64d00USnp20cB;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);234.49333;0.735;0.608;0.719;9.0;126.716;4.0;0.719;1.0
+16;2;176533;7JQnPduaj2nPQvAlQUjqJP;Riendose de mi;7;spotify:track:7JQnPduaj2nPQvAlQUjqJP;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);176.53333;0.683;0.707;0.432;11.0;142.131;4.0;0.348;1.0
+17;2;203733;6UUTupboUDGpljQjJhdd2L;Veneno;8;spotify:track:6UUTupboUDGpljQjJhdd2L;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);203.73333;0.816;0.535;0.344;5.0;152.381;4.0;0.275;1.0
+18;2;239026;5BMVxBrKnM0kJ7PsQ7zj0d;Era de amar;9;spotify:track:5BMVxBrKnM0kJ7PsQ7zj0d;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);239.02667;0.608;0.697;0.632;2.0;74.359;4.0;0.792;1.0
+19;2;353946;0CbNE0yI2EZv9uIwXnP4p5;El valle de las leñas amarillas;10;spotify:track:0CbNE0yI2EZv9uIwXnP4p5;Sus primeras grabaciones 1992-1994 (La luz que sabe robar- Radar);353.94667;0.855;0.794;0.4;2.0;108.622;3.0;0.437;1.0
+0;1;246410;2ECKXkpPAxky87ohawpaeD;12 segundos de oscuridad;1;spotify:track:2ECKXkpPAxky87ohawpaeD;12 segundos de oscuridad;246.82639;0.119;0.607;0.504;0.0;126.051;4.0;0.0396;0.0
+1;1;188081;0KF9s5HhXY9om1zpyo6Uox;La vida es mas compleja de lo que parece;2;spotify:track:0KF9s5HhXY9om1zpyo6Uox;12 segundos de oscuridad;188.10639;0.359;0.718;0.616;7.0;120.016;4.0;0.661;1.0
+2;1;203406;5OwDrwMpNw4sjdDovyhVET;Transoceanica;3;spotify:track:5OwDrwMpNw4sjdDovyhVET;12 segundos de oscuridad;203.99973;0.157;0.664;0.697;4.0;127.997;4.0;0.802;0.0
+3;1;229831;4hjHskQbN3e7GOBQMWis41;Disneylandia;4;spotify:track:4hjHskQbN3e7GOBQMWis41;12 segundos de oscuridad;230.03973;0.299;0.751;0.525;2.0;79.98;4.0;0.543;0.0
+4;1;234660;4GhYYqfbMC3VX8OvP8aCoy;El otro engranaje;5;spotify:track:4GhYYqfbMC3VX8OvP8aCoy;12 segundos de oscuridad;234.66639;0.199;0.742;0.614;9.0;102.028;4.0;0.672;1.0
+5;1;224722;0hf3E2TAapWRy5PhAjp0l8;High and dry;6;spotify:track:0hf3E2TAapWRy5PhAjp0l8;12 segundos de oscuridad;224.94639;0.931;0.598;0.245;2.0;154.137;4.0;0.575;1.0
+6;1;182833;6qXJn6TJ6bTajeRdGApJ47;La infidelidad de la era informatica;7;spotify:track:6qXJn6TJ6bTajeRdGApJ47;12 segundos de oscuridad;183.15973;0.486;0.801;0.423;9.0;139.987;4.0;0.468;0.0
+7;1;179443;5rQXXfPkFpwhFVC1fDV9gw;Hermana duda;8;spotify:track:5rQXXfPkFpwhFVC1fDV9gw;12 segundos de oscuridad;179.69683;0.126;0.305;0.627;7.0;63.705;4.0;0.411;1.0
+8;1;164629;5GCB9mqJzKN4kDKvmqQ03X;Inoportuna;9;spotify:track:5GCB9mqJzKN4kDKvmqQ03X;12 segundos de oscuridad;164.94639;0.651;0.749;0.423;7.0;78.005;4.0;0.507;1.0
+9;1;211208;0dGoksxAOi9wPMSBKnEflt;Quien quiera que seas;10;spotify:track:0dGoksxAOi9wPMSBKnEflt;12 segundos de oscuridad;211.30639;0.0957;0.711;0.487;4.0;92.004;4.0;0.532;0.0
+10;1;238329;58W8oOa1q7TQUpGmAYazFZ;Soledad;11;spotify:track:58W8oOa1q7TQUpGmAYazFZ;12 segundos de oscuridad;238.43973;0.847;0.46;0.281;4.0;156.079;3.0;0.341;1.0
+11;1;268840;0PZ5XHuhfB0LQEQbqEaFnF;Sanar;12;spotify:track:0PZ5XHuhfB0LQEQbqEaFnF;12 segundos de oscuridad;268.91973;0.703;0.654;0.582;7.0;110.028;4.0;0.223;1.0
+12;1;219289;2FqOmSYbvuqLIM9Q85cuWi;El fuego y el combustible;13;spotify:track:2FqOmSYbvuqLIM9Q85cuWi;12 segundos de oscuridad;220.29306;0.939;0.694;0.257;0.0;129.011;4.0;0.583;1.0
+0;1;242534;5kzfj7G1O9PGsLr3kAVOkC;Bailar en la cueva;1;spotify:track:5kzfj7G1O9PGsLr3kAVOkC;Bailar en la cueva;242.53401;0.596;0.689;0.88;7.0;127.952;4.0;0.622;1.0
+1;1;236270;5OUl9lxjsfgOmdt9bVjQqh;Bolivia;2;spotify:track:5OUl9lxjsfgOmdt9bVjQqh;Bailar en la cueva;236.27098;0.115;0.561;0.673;6.0;163.87;4.0;0.552;0.0
+2;1;264347;5IzANmozBOBgDCZo2tLP1Q;Data data;3;spotify:track:5IzANmozBOBgDCZo2tLP1Q;Bailar en la cueva;264.34757;0.349;0.727;0.885;5.0;125.982;4.0;0.789;0.0
+3;1;220974;36MoFIDN0D0Mvbo9kkjyhs;La luna de Rasquí;4;spotify:track:36MoFIDN0D0Mvbo9kkjyhs;Bailar en la cueva;220.97465;0.193;0.764;0.665;9.0;105.985;4.0;0.727;1.0
+4;1;222170;25wkmsggPrmVeDHv0QBMgW;Universos paralelos;5;spotify:track:25wkmsggPrmVeDHv0QBMgW;Bailar en la cueva;222.17034;0.554;0.738;0.831;7.0;107.977;4.0;0.613;1.0
+5;1;252659;5K8phEqnfmK3PlXs7uw5bb;Todo cae;6;spotify:track:5K8phEqnfmK3PlXs7uw5bb;Bailar en la cueva;252.65968;0.779;0.568;0.307;7.0;79.272;3.0;0.35;1.0
+6;1;245499;0wvT8fVDzcl0TcO0GpGEBc;Esfera;7;spotify:track:0wvT8fVDzcl0TcO0GpGEBc;Bailar en la cueva;245.49927;0.348;0.68;0.742;6.0;107.964;4.0;0.609;0.0
+7;1;210831;1fOMSpZatKCyYwgi9rPEwF;La plegaria del paparazzo;8;spotify:track:1fOMSpZatKCyYwgi9rPEwF;Bailar en la cueva;210.83129;0.0492;0.665;0.731;6.0;192.012;4.0;0.732;1.0
+8;1;214060;0Qpxyz6c81VsbvoSaCB4L4;La noche no es una ciencia;9;spotify:track:0Qpxyz6c81VsbvoSaCB4L4;Bailar en la cueva;214.06091;0.788;0.649;0.516;0.0;112.019;4.0;0.498;1.0
+9;1;194090;2eovziuPLoSQT3lDXUavrz;El triángulo de las Bermudas;10;spotify:track:2eovziuPLoSQT3lDXUavrz;Bailar en la cueva;194.09079;0.35;0.854;0.615;11.0;93.029;4.0;0.611;1.0
+10;1;400362;5mvGbNjKaqB63vFdN2MZ7m;Organdí;11;spotify:track:5mvGbNjKaqB63vFdN2MZ7m;Bailar en la cueva;400.36204;0.759;0.531;0.249;2.0;104.039;4.0;0.106;1.0
+0;1;219493;75lisbgzhfJdIt5YdPuAWP;La Edad Del Cielo;1;spotify:track:75lisbgzhfJdIt5YdPuAWP;Frontera;219.49333;0.588;0.668;0.261;7.0;147.446;4.0;0.282;1.0
+1;1;304440;1z8eYOOd1fjxbubkDd8Z9a;Memoria Del Cuero;2;spotify:track:1z8eYOOd1fjxbubkDd8Z9a;Frontera;304.44;0.374;0.674;0.869;2.0;117.999;4.0;0.813;1.0
+2;1;206493;0WASvp4NGCxg9ClqLt8GeD;Frontera;3;spotify:track:0WASvp4NGCxg9ClqLt8GeD;Frontera;206.49333;0.589;0.783;0.461;7.0;120.034;4.0;0.854;1.0
+3;1;186773;7zUyeooUE7M4sl06eas3uE;Río Abajo;4;spotify:track:7zUyeooUE7M4sl06eas3uE;Frontera;186.77333;0.646;0.718;0.46;9.0;95.564;4.0;0.509;1.0
+4;1;253293;0T5qABWOBtr9qbTTx54PSG;Corazón De Cristal;5;spotify:track:0T5qABWOBtr9qbTTx54PSG;Frontera;253.29333;0.791;0.686;0.212;7.0;134.12;4.0;0.189;1.0
+5;1;210266;05B4ROjViZEHFGATQzPQJI;Madre Tierra;6;spotify:track:05B4ROjViZEHFGATQzPQJI;Frontera;210.26667;0.718;0.594;0.305;7.0;166.7;4.0;0.694;1.0
+6;1;190000;5gqFvca45ESaMKJo40t19k;Princesa Bacana;7;spotify:track:5gqFvca45ESaMKJo40t19k;Frontera;190.0;0.676;0.718;0.428;5.0;139.956;4.0;0.551;1.0
+7;1;211573;1IEPilueltPcdDHL3RvNyD;Alto El Fuego;8;spotify:track:1IEPilueltPcdDHL3RvNyD;Frontera;211.57333;0.898;0.655;0.162;2.0;82.264;1.0;0.649;1.0
+8;1;200026;5Tjwl3oPSCD2o0nkAbiGW0;Aquellos Tiempos;9;spotify:track:5Tjwl3oPSCD2o0nkAbiGW0;Frontera;200.02667;0.65;0.552;0.499;2.0;131.952;4.0;0.665;1.0
+9;1;225933;3uLmiHycG0TVCoi5yVcXCX;El Sur Del Sur;10;spotify:track:3uLmiHycG0TVCoi5yVcXCX;Frontera;225.93333;0.509;0.695;0.385;2.0;120.149;4.0;0.26;1.0
+10;1;175866;16PU73LgqfTxxwqTmSp6Ch;Camino A La Paloma;11;spotify:track:16PU73LgqfTxxwqTmSp6Ch;Frontera;175.86667;0.64;0.778;0.243;9.0;166.027;3.0;0.714;1.0
