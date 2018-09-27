@@ -17,3 +17,7 @@ To check hypothesis:
 2) Check context with statistical language model
 http://colinmorris.github.io/blog/1b-words-char-embeddings
 https://dash.harvard.edu/bitstream/handle/1/25104739/tr-10-98.pdf?sequence=1
+
+
+https://geoffboeing.com/2016/05/analyzing-lastfm-history/ !!!!!!!!!! futuro futuro
+
