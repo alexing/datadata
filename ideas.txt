@@ -1,0 +1,26 @@
+
+
+
+https://towardsdatascience.com/predicting-logics-lyrics-with-machine-learning-9e42aff63730
+
+https://www.r-bloggers.com/whats-in-the-words-comparing-artists-and-lyrics-with-r/
+
+https://nycdatascience.com/blog/student-works/billboard-hot-100-lyrics-1987-2017/
+
+https://github.com/rasbt/musicmood
+
+Also, programa a classifier with logistic regression between Drexler and something weird like Arjona!.
+
+To check hypothesis:
+1)
+- Make a word count of the most words i can in lyrics
+- Make a word count of drexler
+- Cross reference. See what stands out.
+
+2) Check context with statistical language model
+http://colinmorris.github.io/blog/1b-words-char-embeddings
+https://dash.harvard.edu/bitstream/handle/1/25104739/tr-10-98.pdf?sequence=1
+
+
+https://geoffboeing.com/2016/05/analyzing-lastfm-history/ !!!!!!!!!! futuro futuro
+
