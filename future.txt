@@ -1,6 +1,6 @@
-1 - Last paper
-2 - Spotify data
+1 - Last paper CHECK
+2 - Spotify data CHECK
 3 - tidy code
 4 - make better graphs
 5 - tidy git
-6 - write paper
+6 - write paper(s)
