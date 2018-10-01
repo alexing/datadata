@@ -4,12 +4,18 @@
 ### Alex Ingberg
 
 Data, data is a homage to the great Uruguayan musician and songwriter [Jorge Drexler](https://www.youtube.com/watch?v=aU9gzRy2dQc).
-Pulling data using both the Genius API and the Spotify API I've been able to analyze Jorge's music and get some insights on his creative process and his songs in general; both from the lyrics side and the musical theory side.
+Pulling data using both the Genius API and the Spotify API I've been able to analyze Jorge's music and get some insights and visualizations on his creative process and his songs in general; both from the lyrics side and the musical theory side.
 Wordcount, lexical and lyrical density, sentiment analysis and analysis of musical components like tempo, time signature and key are all taken into account. Also, in the end, [gloom_index](https://www.rcharlie.com/post/fitter-happier/) is used combining both lyrics and music.
 
-Some cool samples:
+Some cool samples from the visualizations:
 
 ![NRC emotions through the years](img/emotions_through_time.jpg?raw=true "NRC emotions through the years")
+![Tempo by albums](img/tempo_by_albums.jpg?raw=true "Tempo by albums")
+![Usage of keys](img/keys.jpg?raw=true "Usage of keys")
+![Top 10 songs with more words](img/top_songs_more_words.jpg?raw=true "Top 10 songs with more words")
+![Wordcloud](img/wordcloud.jpg?raw=true "Wordcloud")
+![Lyrical density vs lexical density](img/lyrical_density_v_lexical_density.jpg?raw=true "Lyrical density vs lexical density")
+![Correlation in negative NRC emotions](img/correlation_in_emotions.jpg?raw=true "Correlation in negative NRC emotions")
 
 MusicMagal is a group recommendation system that recommends n music tracks to a group of m users considering all of the m users preferences into account.
 To achieve this we've based our machine learning and deep learning models in Last.Fm data. After computing and when the resulting playlist is output, we create a real playlist using Spotify API's python wrapper: Spotipy.
