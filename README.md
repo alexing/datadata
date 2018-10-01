@@ -4,7 +4,10 @@
 ### Alex Ingberg
 
 Data, data is a homage to the great Uruguayan musician and songwriter [Jorge Drexler](https://www.youtube.com/watch?v=aU9gzRy2dQc).
+
+
 Pulling data using both the Genius API and the Spotify API I've been able to analyze Jorge's music and get some insights and visualizations on his creative process and his songs in general; both from the lyrics side and the musical theory side.
+
 Wordcount, lexical and lyrical density, sentiment analysis and analysis of musical components like tempo, time signature and key are all taken into account. Also, in the end, [gloom_index](https://www.rcharlie.com/post/fitter-happier/) is used combining both lyrics and music.
 
 Some cool samples from the visualizations:
@@ -17,16 +20,16 @@ Some cool samples from the visualizations:
 ![Lyrical density vs lexical density](img/lyrical_density_v_lexical_density.jpg?raw=true "Lyrical density vs lexical density")
 ![Correlation in negative NRC emotions](img/correlation_in_emotions.jpg?raw=true "Correlation in negative NRC emotions")
 
-MusicMagal is a group recommendation system that recommends n music tracks to a group of m users considering all of the m users preferences into account.
-To achieve this we've based our machine learning and deep learning models in Last.Fm data. After computing and when the resulting playlist is output, we create a real playlist using Spotify API's python wrapper: Spotipy.
+This whole project has been created using [Python 3](https://www.python.org/downloads/), [Jupyter Notebook](http://jupyter.org/) and a little bit of [PyCharm](https://www.jetbrains.com/pycharm/).
 
-A typical version of the program's flow is presented in [musicmagal_flow.ipynb](musicmagal_flow.ipynb).
+I created the databases with [pandas](https://pandas.pydata.org/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), [Spotipy](https://spotipy.readthedocs.io/en/latest/) (an amazing Python wrapper for the Web Spotify API), and the [Genius API](https://genius.com/developers) and [Web Spotify API](https://developer.spotify.com/documentation/web-api/).
 
-To see our evaluation metrics you can check [musicmagal_evaluation.ipynb](musicmagal_evaluation.ipynb).
+To work on the analysis the tools I used were [pandas](https://pandas.pydata.org/), [NumPy](http://www.numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [scikit-learn](http://scikit-learn.org/), [SciPy](https://www.scipy.org/), [Natural Language Toolkit](https://www.nltk.org/), [wordcloud](https://github.com/amueller/word_cloud) and [py-lex](https://github.com/dropofwill/py-lex). 
 
-Our database exploration is presented in [db_exploration.ipynb](db_exploration.ipynb).
 
-You can read the article going over our model bit by bit in [Hacker Noon](https://hackernoon.com/musicmagal-c93e9dabd01a).
+To check the analysis, go [here](drexler_data_exploration.ipynb).
+
+To check how i built the database, go [here](drexler_dataset_builder.ipynb).
 
 
 
