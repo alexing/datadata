@@ -1,7 +1,7 @@
 # Data, data
 ## A statistical analysis and exploration on Jorge Drexler's music and lyrics.
 
-### Alex Ingberg
+### [Alex Ingberg](https://www.linkedin.com/in/alexingberg/)
 
 Data, data is a homage to the great Uruguayan musician and songwriter [Jorge Drexler](https://www.youtube.com/watch?v=aU9gzRy2dQc).
 
