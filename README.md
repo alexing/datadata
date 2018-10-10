@@ -1,7 +1,9 @@
 # Data, data
 ## A statistical analysis and exploration on Jorge Drexler's music and lyrics.
 
-### [Alex Ingberg](https://www.linkedin.com/in/alexingberg/)
+### by [Alex Ingberg](https://www.linkedin.com/in/alexingberg/)
+
+
 
 Data, data is a homage to the great Uruguayan musician and songwriter [Jorge Drexler](https://www.youtube.com/watch?v=aU9gzRy2dQc).
 
@@ -9,6 +11,10 @@ Data, data is a homage to the great Uruguayan musician and songwriter [Jorge Dre
 Pulling data using both the Genius API and the Spotify API I've been able to analyze Jorge's music and get some insights and visualizations on his creative process and his songs in general; both from the lyrics side and the musical theory side.
 
 Wordcount, lexical and lyrical density, sentiment analysis and analysis of musical components like tempo, time signature and key are all taken into account. Also, in the end, [gloom_index](https://www.rcharlie.com/post/fitter-happier/) is used combining both lyrics and music.
+
+## To check the analysis, go [here](drexler_data_exploration.ipynb).
+
+### To check how i built the database, go [here](drexler_dataset_builder.ipynb).
 
 Some cool samples from the visualizations:
 
@@ -27,9 +33,9 @@ I created the databases with [pandas](https://pandas.pydata.org/), [BeautifulSou
 To work on the analysis the tools I used were [pandas](https://pandas.pydata.org/), [NumPy](http://www.numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [scikit-learn](http://scikit-learn.org/), [SciPy](https://www.scipy.org/), [Natural Language Toolkit](https://www.nltk.org/), [wordcloud](https://github.com/amueller/word_cloud) and [py-lex](https://github.com/dropofwill/py-lex). 
 
 
-To check the analysis, go [here](drexler_data_exploration.ipynb).
+## To check the analysis, go [here](drexler_data_exploration.ipynb).
 
-To check how i built the database, go [here](drexler_dataset_builder.ipynb).
+### To check how i built the database, go [here](drexler_dataset_builder.ipynb).
 
 
 
