@@ -14,7 +14,12 @@ Wordcount, lexical and lyrical density, sentiment analysis and analysis of music
 
 ## To check the analysis, go [here](drexler_data_exploration.ipynb).
 
+## To see the article published in Towards Data Science, go [here](https://towardsdatascience.com/data-data-1fedfac91c79)
+## To check it's spanish translation, go [here](https://medium.com/@alexing/data-data-b82201ec1cf4)
+
 ### To check how i built the database, go [here](drexler_dataset_builder.ipynb).
+
+
 
 Some cool samples from the visualizations:
 
