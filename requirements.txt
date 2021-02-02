@@ -15,7 +15,7 @@ bidict==0.17.3
 bitarray==0.8.1
 bkcharts==0.2
 blaze==0.11.3
-bleach==1.5.0
+bleach==3.3.0
 bokeh==0.12.11
 boto==2.48.0
 bottle==0.12.13
