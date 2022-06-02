@@ -63,7 +63,7 @@ h5py==2.7.0
 heapdict==1.0.0
 helper-functions==2.0.11
 holoviews==1.9.1
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 imageio==2.2.0
 imagesize==0.7.1
