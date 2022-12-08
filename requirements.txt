@@ -21,7 +21,7 @@ boto==2.48.0
 bottle==0.12.13
 Bottleneck==1.2.1
 branca==0.2.0
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.10.0
 chardet==3.0.4
 click==6.7
